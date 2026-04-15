@@ -40,7 +40,8 @@ Open to roles in **Data Analytics**, **Business Intelligence**, and **Data Engin
 
 | Project | Description | Stack |
 |---|---|---|
-| [ETL Pipeline — Medallion Architecture](https://github.com/Mousinho/ETL_CAT_API) | End-to-end ETL using Raw → Stage → Trusted → Delivery layers on Databricks | PySpark · Delta Lake · Databricks |
+| [ETL Pipeline — League A Data](https://github.com/Mousinho/ETL-Pipeline-League-A) | End-to-end ETL using Raw → Stage → Trusted → Delivery layers on Databricks | PySpark · Delta Lake · Databricks |
+| [ETL Pipeline — Medallion Architecture](https://github.com/Mousinho/ETL_CAT_API) | End-to-end ETL using Raw → Stage → Trusted → Delivery layers on Databricks | PySpark · Delta Lake · Databricks · REST API |
 | [Python ETL — Tsunami Dataset](https://github.com/Mousinho/PythonETL) | Data cleaning and transformation pipeline on real-world Kaggle data | Python · pandas · openpyxl |
 
 ---
